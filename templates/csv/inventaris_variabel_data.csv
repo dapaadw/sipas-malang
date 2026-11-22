@@ -1,0 +1,10 @@
+﻿no,variabel,indikator,sumber,cakupan,status,catatan
+1,Timbulan sampah,Ton/hari dan ton/tahun,DLH 2024,5 Kecamatan & Kota,A,Tersedia lengkap
+2,Kependudukan,Jumlah penduduk (jiwa),DLH 2024 dan BPS 2025,5 Kecamatan & Kota,A,Tersedia lengkap
+3,Pengurangan sampah,Ton/tahun dan persentase,Neraca DLH 2024,Kota Malang,A,"Tersedia (75.591,50 t / 28,32%)"
+4,Penanganan sampah,Ton/tahun dan persentase,Neraca DLH 2024,Kota Malang,A,"Tersedia (188.723,24 t / 70,70%)"
+5,Fasilitas pengolahan,Jumlah fasilitas kota,Neraca DLH 2024,Kota Malang (148 unit),A,Belum terpecah per kecamatan
+6,Kondisi fasilitas setiap kecamatan,Kapasitas dan kondisi operasional,Dokumen fasilitas,Sebagian / Tingkat Kota,P,Parsial
+7,Data sampah masuk TPA per asal kecamatan,Ton/hari berdasarkan asal,Data operasional WIS,Tidak tersedia secara terbuka,NA,Ditandai NA (bukan 0)
+8,Perilaku pemilahan masyarakat,% rumah tangga memilah per kecamatan,Survei atau data administratif,Tidak tersedia,NA,Ditandai NA (bukan 0)
+9,Kualitas lingkungan sekitar TPA,"Pengukuran air, udara, tanah",Laporan uji lingkungan,Sekitar TPA / Tingkat Kota,P,Parsial
