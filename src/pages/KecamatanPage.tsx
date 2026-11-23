@@ -78,12 +78,6 @@ export const KecamatanPage: React.FC = () => {
 
   return (
     <div className="space-y-6">
-      <DisclaimerBanner
-        title="Bukan Tonase Aktual yang Masuk TPA"
-        variant="info"
-      >
-        Angka di bawah adalah <strong>estimasi timbulan sampah tahun {dataset.metadata.tahunDasar}</strong> per kecamatan berdasarkan data resmi DLH Kota Malang, bukan hasil penimbangan harian kendaraan yang masuk ke TPA Supit Urang.
-      </DisclaimerBanner>
 
       {/* 4 Insight Cards */}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-4">

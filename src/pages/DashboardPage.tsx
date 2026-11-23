@@ -8,7 +8,6 @@ import {
   ShieldCheck,
   TrendingDown,
 } from 'lucide-react';
-import { DisclaimerBanner } from '../components/DisclaimerBanner';
 import { KpiCard } from '../components/KpiCard';
 import { MalangMap } from '../components/MalangMap';
 import { StatusBadge } from '../components/StatusBadge';
@@ -388,19 +387,6 @@ export const DashboardPage: React.FC = () => {
           </p>
         </div>
       </div>
-
-      {/* Methodological Note */}
-      <DisclaimerBanner title="Catatan Metodologis Data" variant="info">
-        Angka timbulan harian pada dashboard ini merupakan <strong>estimasi tahunan DLH Kota Malang</strong> (bukan hasil penimbangan real-time). TPA Supit Urang di Kecamatan Sukun melayani seluruh Kota Malang; untuk melihat profil fasilitas dan hubungan dengan WIS, buka menu{' '}
-        <button
-          type="button"
-          onClick={() => setActiveTab('tpa')}
-          className="font-semibold underline hover:text-emerald-700"
-        >
-          TPA Supit Urang &amp; Fasilitas
-        </button>
-        .
-      </DisclaimerBanner>
 
       {/* Compact System Workflow */}
       <WorkflowStepper
